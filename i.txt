@@ -1,7 +1,6 @@
 #EXTM3U
 #genre# 央视 # 分类标签：所有后续频道归为“央视”组
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV1.png",CCTV1
-http://39.134.87.62/000000001000/5000000010000030810/index.m3u8
-
+http://39.134.87.62/000000001000/5000000010000030810/index.m3u8 
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV2.png",CCTV2
 http://39.134.87.62/000000001000/5000000011000031101/index.m3u8
